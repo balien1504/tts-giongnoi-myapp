@@ -1,0 +1,6 @@
+{
+  "name": "VoiceStudio AI - Studio Giọng Nói & Text-to-Speech Chuyên Nghiệp",
+  "description": "Studio chuyển văn bản thành giọng nói biểu cảm đa dạng (TTS), bộ lọc âm thanh phòng thu DSP tùy chỉnh nâng cao chất lượng giọng nói và xuất file âm thanh đa định dạng (WAV 24-bit/16-bit, MP3 320kbps).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
